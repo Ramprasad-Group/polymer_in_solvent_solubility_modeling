@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "polymer-in-solvent-solubility-modeling"
+version = "0.1.0"
+description = ""
+authors = ["jdkern11 <leolion29@gmail.com>"]
+readme = "README.md"
+packages = [{include = "polymer_in_solvent_solubility_modeling"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "1.5.0"
+jupyterlab = "3.2.8"
+matplotlib = "3.5.1"
+seaborn = "0.11.2"
+rdkit = "^2022.3.5"
+ipympl = "0.8.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
