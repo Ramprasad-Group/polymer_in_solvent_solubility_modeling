@@ -1,4 +1,7 @@
 # Solvent Selection for Polymers Enabled by Generalized Chemical Fingerprinting and Machine Learning
+
+# IMPORTANT NOTE: The code and data shared here is available for academic non-commercial use only
+
 This code corresponds to the publication "Solvent Selection for Polymers Enabled by Generalized
 Chemical Fingerprinting and Machine Learning". The repository contains data to
 assist in the visualization of certain plots in the paper.
